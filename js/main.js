@@ -293,5 +293,5 @@ function bodyScrollingToggle() {
         if (!section.classList.contains('active')) {
             section.classList.add('hide');
         }
-    }) */
-})(); 
+    }) 
+})(); */

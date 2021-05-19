@@ -1411,3 +1411,11 @@ img{
 .contact-section .input-group:after {
     border-radius: 30px;
 }
+.timeline-item-inner a {
+    font-weight: 600;
+    color: #FF8C00;
+    font-size: 18px;
+    height: 10px;
+    width: 10px;
+    border-bottom: 2px dashed var(--skin-color);
+}

@@ -577,7 +577,18 @@ img{
     margin-top: 20px;
     text-align: center;
 }
-
+.about-section .social-links .fa-facebook-f {
+    color: #1E90FF;
+}
+.about-section .social-links .fa-instagram {
+    color: #fb3958;
+}
+.about-section .social-links .fa-twitter {
+    color: #1DA1F2;
+}
+.about-section .social-links .fa-linkedin-in {
+    color: #0077B5;
+}
 .about-section .about-img .social-links a {
     display: inline-block;
     height: 40px;
